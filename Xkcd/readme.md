@@ -1,4 +1,4 @@
-# TimesWire Search
+# XKCD API
 
 > see https://aka.ms/autorest
 
